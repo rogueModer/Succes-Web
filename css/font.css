@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|M+PLUS+Rounded+1c|Nanum+Gothic|Open+Sans|Sawarabi+Gothic|Titillium+Web');
+
+h1{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 35px;
+}
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	line-height: 100px;
+}
+h3{
+	font-family: 'Sawarabi Gothic', sans-serif;	
+	font-size: 25px;
+}
+h4{
+	font-family: 'Titillium Web', sans-serif;
+	line-height: 60px;
+	font-size: 25px;
+}
+h5{
+	font-family: 'Arimo', sans-serif;
+	font-size: 18px;
+	color: whitesmoke;
+	line-height: 40px;
+}
+p{
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 16px;
+	line-height: 25px;
+}
+a{
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 14px;
+	color: gray;	
+}
+a::hover{
+	font-size: 15px;
+}
+
